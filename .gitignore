@@ -12,8 +12,6 @@ game.cue
 game.map
 /jo_engine/*.o
 /Projects/*/*.o
-/Samples/*/*.o
-*.layout
 bios.bin
 logs.txt
 
